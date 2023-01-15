@@ -3,7 +3,7 @@
 "HTTP": ["Methods", "srever respones codes", "structer of HTTP inputs"],
 "structer of": ["JSON", "XML"],
 "API testing": ["testing by using Postman", "API autotests"],
-"logs from an external serxver": ["reading logs", "removing logs"],
+"logs from an external server": ["reading logs", "removing logs"],
 "sniffing http web traffic": ["Charles", "Fiddler"],
 "Dev Tools": ["network", "console", "security", "elements"],
 "VPN": "different instruments",
